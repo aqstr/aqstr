@@ -10,11 +10,15 @@ Welcome to my GitHub profile, where I explore the ever-evolving world of technol
 
 ## 👀 What I'm Interested In
 I'm captivated by the world of technological innovation, particularly in the realms of Machine Learning and Data Science. As I explore the intricacies of Shodo: Japanese Calligraphy and the Danish language, my passion for cultural and artistic endeavors grows. These diverse interests fuel my curiosity and drive for continuous learning and exploration.
+
 ## 💞️ Let's Collaborate
 I'm always open to collaboration and exploring new projects. If you have an idea or a project you think we could work on together, feel free to reach out.
 
 ## 📫 How to Reach Me
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/akvilelaurinaviciute/)
 - Email: akvilestriaukiene@gmail.com
+
+> "Live as if you were to die tomorrow. Learn as if you were to live forever."  
+> — Mahatma Gandhi
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me. Let's embark on a tech journey together! 🚀
